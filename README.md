@@ -1,1 +1,1 @@
-# NYCU_ICLAB_2024_Spring
+# NYCU Integrated Circuit Design Laboratory 2024 Spring
