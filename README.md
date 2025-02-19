@@ -11,8 +11,8 @@
 ## Score
 |Lab|Content|Design|Demo|Rank|Score|Pass Rate|
 |:--|:------|:-----|:--:|:--:|:---:|:-------:|
-| [Lab01](https://github.com/therealczr15/NYCU_ICLAB_2024S/tree/main/Lab01) | Cell Based Design Methodology +  Verilog Combinational Circuit Programming       | Code Calculator                                            | 1st | 6 | 98.68 | |
-| [Lab02](https://github.com/therealczr15/NYCU_ICLAB_2024S/tree/main/Lab02) | Finite State Machine + Verilog Sequential Circuit Programming                    | Enigma Machine                                             | 1st | | 93.67 | |
+| [Lab01](https://github.com/therealczr15/NYCU_ICLAB_2024S/tree/main/Lab01) | Cell Based Design Methodology +  Verilog Combinational Circuit Programming       | Code Calculator                                            | 1st | 6 / 114 | 98.68 | |
+| [Lab02](https://github.com/therealczr15/NYCU_ICLAB_2024S/tree/main/Lab02) | Finite State Machine + Verilog Sequential Circuit Programming                    | Enigma Machine                                             | 1st | 24 / 109 | 93.67 | |
 | [Lab03](https://github.com/therealczr15/NYCU_ICLAB_2024S/tree/main/Lab03) | Verification & Simulation + Verilog Test Bench Programming                       | AXI-SPI DataBridge                                         | 1st | NA | 100.0 | |
 | [Lab04](https://github.com/therealczr15/NYCU_ICLAB_2024S/tree/main/Lab04) | Sequential Circuit Design II (STA + Pipeline) + Designware IP                    | Convolution Neural Network                                 | 1st | | 93.05 | |
 | [Lab05](https://github.com/therealczr15/NYCU_ICLAB_2024S/tree/main/Lab05) | Memory & Coding Style (Memory Compiler + SuperLint)                              | Matrix convolution, max pooling and transposed convolution | 1st | | 98.04 | |
