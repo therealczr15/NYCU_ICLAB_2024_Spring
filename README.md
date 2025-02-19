@@ -10,6 +10,12 @@
 - Objectives : This course aims to convey the senior and graudated EE students techniques to design the VLSI chips using state-of-the-art CAD tools. In addition to learning CAD tools for performance-driven and cost-effective IC designs, a top-down design flow and related environment will also be addressed. Upon completion of the course, the student will be able to design the integrated circuits and systems based on standard cell library as well as full-custom layout approaches. As such he/she will be able to work in a team of designers or stand alone.
 The course starts from system design specs of an application which demands the need of developing specific hardwares or application specific integrated circuits (ASIC) or application processors. Then followed by the presentation of architectural proposals, an optimal architecture leading to performance-driven and cost-effective realization can be derived based on both sampling rate and system clock rate. With the support of Verilog-HDL, designers can describe their designs either in behavioral level or structural level. Before going down to the lower level design, one has to do initial floorplan to estimate both routing style and module aspect ratio which provide some area constraints for later designs. Then the partitioned blocks can be conducted hierarchically and with the support of synthesis as well as P&R routing tools, physical layout can easily be achieved if cell-based design approach is exploited. Finally through layout verification and post-layout simulation, the design can be verified before fabrication.
 
+## Environment
+- Process: U18
+- Simulation: VCS
+- Synthesis: Design Compiler
+- APR: Innovus
+
 ## Score
 - Total Score : 94.19 (100%)
 - Rank : 2 / 89
