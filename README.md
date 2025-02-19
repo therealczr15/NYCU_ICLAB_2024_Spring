@@ -11,10 +11,10 @@
 The course starts from system design specs of an application which demands the need of developing specific hardwares or application specific integrated circuits (ASIC) or application processors. Then followed by the presentation of architectural proposals, an optimal architecture leading to performance-driven and cost-effective realization can be derived based on both sampling rate and system clock rate. With the support of Verilog-HDL, designers can describe their designs either in behavioral level or structural level. Before going down to the lower level design, one has to do initial floorplan to estimate both routing style and module aspect ratio which provide some area constraints for later designs. Then the partitioned blocks can be conducted hierarchically and with the support of synthesis as well as P&R routing tools, physical layout can easily be achieved if cell-based design approach is exploited. Finally through layout verification and post-layout simulation, the design can be verified before fabrication.
 
 ## Environment
-- Process: U18
-- Simulation: VCS
-- Synthesis: Design Compiler
-- APR: Innovus
+- Process : U18
+- Simulation : VCS
+- Synthesis : Design Compiler
+- APR : Innovus
 
 ## Score
 - Total Score : 94.19 (100%)
